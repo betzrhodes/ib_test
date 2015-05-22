@@ -61,7 +61,7 @@ imp.wakeup(3, function() {
 })
 
 
-// this replicates the issue I'm seeing in impbase is restore is only called in the init
+// this replicates the issue I'm seeing in impbase if restore is only called in the init
 
 // logs
 // 2015-05-21 16:41:10 UTC-7  [Agent] constructor _data: { }
